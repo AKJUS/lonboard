@@ -9,7 +9,7 @@
     "@deck.gl/layers": "^9.0.36",
     "@deck.gl/react": "^9.0.36",
     "@geoarrow/deck.gl-layers": "^0.3.0",
-    "@babel/runtime": "^7.26.0",
+    "@babel/runtime": "^7.27.4",
     "@nextui-org/react": "^2.4.8",
     "@xstate/react": "^5.0.0",
     "apache-arrow": "^18.1.0",
@@ -39,7 +39,7 @@
     "@types/uuid": "^10.0.0",
     "autoprefixer": "^10.4.20",
     "dotenv": "^16.4.5",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.5",
     "eslint": "^9.16.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-react": "^7.37.2",
@@ -52,7 +52,7 @@
     "tailwindcss": "^3.4.15",
     "typescript": "^5.7.2",
     "typescript-eslint": "^8.16.0",
-    "vitest": "^2.1.6"
+    "vitest": "^3.2.1"
   },
   "scripts": {
     "build": "node ./build.mjs",
